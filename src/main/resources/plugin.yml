@@ -1,0 +1,5 @@
+name: ${project.name}
+main: org.bitbucket.ucchy.playerhead2mob.PlayerHead2Mob
+version: ${project.version}
+author: ucchy
+description: ${project.description}
